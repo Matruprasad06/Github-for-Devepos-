@@ -1,0 +1,11 @@
+ git status
+ 1244  git add .
+ 1245  git status
+ 1246  git commit -m "Added testing files"
+ 1247  git status
+ 1248  clear
+ 1249  rm testing.py
+ 1250  git status
+ 1251  git restore testing.py
+ 1252  git status
+ 1253  history
