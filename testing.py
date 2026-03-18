@@ -1,2 +1,3 @@
 print("Hello world")
-print("Hy")
+print("Hello g")
+print("Hello dear")
