@@ -9,3 +9,17 @@
  1251  git restore testing.py
  1252  git status
  1253  history
+1245  git status
+ 1246  git commit -m "Added testing files"
+ 1247  git status
+ 1248  clear
+ 1249  rm testing.py
+ 1250  git status
+ 1251  git restore testing.py
+ 1252  git status
+ 1253  history
+ git remote set-url origin 
+ 1270  git push origin master
+ 1271  git clone 
+ 1272  clear
+ 1273  history
